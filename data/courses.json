@@ -1,0 +1,292 @@
+[
+    {
+        "id": 1,
+        "category": "Graphic Design",
+        "imageSrc": "GD.jpg",
+        "courses": [
+            {
+                "id": 1,
+                "title": "Basic Graphics Design",
+                "imageSrc": "courseCard1.png",
+                "duration": "30 Hours",
+                "rating": 4.3,
+                "reviews": 498,
+                "students": 1985,
+                "originalPrice": "৳15,000",
+                "discount": 50,
+                "discountedPrice": "৳7,500",
+                "detail": "## Basic Graphics Design\n\nএই কোর্সটি তাদের জন্য যারা একদম শুরু থেকে গ্রাফিক ডিজাইন শিখতে চান। সহজ ভাষায় এবং হাতে-কলমে শেখানোর মাধ্যমে আপনাকে ডিজাইনের বেসিক ধারণা এবং দরকারি টুলের ব্যবহার শেখানো হবে।\n\n### এই কোর্সে আপনি যা শিখবেন\n- গ্রাফিক ডিজাইনের মৌলিক বিষয়\n- রঙ ও ফন্টের সঠিক ব্যবহার\n- Photoshop ও Illustrator-এর বেসিক টুল\n- লোগো ও ব্যানার ডিজাইন\n- সোশ্যাল মিডিয়ার জন্য আকর্ষণীয় পোস্ট তৈরি\n- ছবি এডিট করার কৌশল\n\n### কারা এই কোর্সটি করবেন\n- নতুন শিক্ষার্থী\n- ফ্রিল্যান্সিংয়ে আগ্রহী ব্যক্তি\n- নিজের ব্যবসা বা অনলাইন কাজের জন্য ডিজাইন শিখতে চান\n\n### কোর্স শেষে আপনি যা পাবেন\n- ডিজাইনের শক্ত ভিত্তি\n- নিজে ডিজাইন করার আত্মবিশ্বাস\n- Advanced Graphics Design শেখার প্রস্তুতি"
+            },
+            {
+                "id": 2,
+                "title": "Master of Graphics Design",
+                "imageSrc": "courseCard2.png",
+                "duration": "90 Hours",
+                "rating": 4,
+                "reviews": 498,
+                "students": 1985,
+                "originalPrice": "৳30,000",
+                "discount": 50,
+                "discountedPrice": "৳15,000",
+                "detail": "## Master of Graphics Design\n\nএই কোর্সটি তাদের জন্য যারা গ্রাফিক ডিজাইনে বেসিক জ্ঞান আছে এবং প্রফেশনাল লেভেলে যেতে চান। বাস্তব প্রজেক্ট এবং আধুনিক ডিজাইন ধারণার মাধ্যমে আপনাকে একজন দক্ষ গ্রাফিক ডিজাইনার হিসেবে গড়ে তোলা হবে।\n\n### এই কোর্সে আপনি যা শিখবেন\n- Advanced Photoshop ও Illustrator টেকনিক\n- প্রফেশনাল লোগো ও ব্র্যান্ড আইডেন্টিটি ডিজাইন\n- ব্যানার ও মার্কেটিং ম্যাটেরিয়াল তৈরি\n- সোশ্যাল মিডিয়া ও বিজ্ঞাপনের জন্য ক্রিয়েটিভ ডিজাইন\n- টাইপোগ্রাফি ও কালার থিওরির গভীর ব্যবহার\n- ক্লায়েন্টের চাহিদা অনুযায়ী কাজ করার কৌশল\n\n### কারা এই কোর্সটি করবেন\n- Intermediate লেভেলের শিক্ষার্থী\n- ফ্রিল্যান্সিং বা চাকরির জন্য নিজেকে প্রস্তুত করতে চান\n- গ্রাফিক ডিজাইনকে পেশা হিসেবে নিতে চান\n\n### কোর্স শেষে আপনি যা পাবেন\n- প্রফেশনাল মানের ডিজাইন তৈরি করার দক্ষতা\n- শক্তিশালী পোর্টফোলিও\n- দেশি–বিদেশি ক্লায়েন্টের সাথে কাজ করার আত্মবিশ্বাস"
+            },
+            {
+                "id": 3,
+                "title": "Professional Graphics Design",
+                "imageSrc": "courseCard3.png",
+                "duration": "60 Hours",
+                "rating": 3,
+                "reviews": 498,
+                "students": 1985,
+                "originalPrice": "৳24,000",
+                "discount": 50,
+                "discountedPrice": "৳12,000",
+                "detail": "## Professional Graphics Design\n\nএই কোর্সটি তাদের জন্য যারা গ্রাফিক ডিজাইন ও মিডিয়া ক্রিয়েশন-এ প্রফেশনাল স্কিল অর্জন করতে চান। বাস্তব উদাহরণ এবং ইন্ডাস্ট্রি-রিয়েল প্রজেক্টের মাধ্যমে আপনাকে একজন দক্ষ ডিজাইনার হিসেবে গড়ে তোলা হবে।\n\n### এই কোর্সে আপনি যা শিখবেন\n- Advanced Photoshop ও Illustrator টেকনিক\n- ব্র্যান্ডিং এবং লোগো ডিজাইন কৌশল\n- সোশ্যাল মিডিয়া এবং মার্কেটিং ম্যাটেরিয়াল তৈরি\n- মোশন গ্রাফিক্স ও এনিমেশন (বেসিক লেভেল)\n- টাইপোগ্রাফি, কালার থিওরি এবং ডিজাইন কম্পোজিশন\n- ক্লায়েন্টের প্রয়োজন অনুযায়ী প্রফেশনাল ডিজাইন ডেলিভারি\n\n### কারা এই কোর্সটি করবেন\n- যারা ফ্রিল্যান্সিং বা চাকরির জন্য প্রফেশনাল স্কিল অর্জন করতে চান\n- যারা গ্রাফিক ডিজাইনকে ক্যারিয়ার হিসেবে নিতে চান\n- যারা Advanced বা Master লেভেল কোর্স শেষ করেছেন এবং আরও দক্ষ হতে চান\n\n### কোর্স শেষে আপনি যা পাবেন\n- প্রফেশনাল মানের ক্রিয়েটিভ ডিজাইন তৈরি করার দক্ষতা\n- শক্তিশালী পোর্টফোলিও এবং ক্লায়েন্ট প্রজেক্টের অভিজ্ঞতা\n- ফ্রিল্যান্সিং বা চাকরির জন্য আত্মবিশ্বাস"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "category": "Web design & development",
+        "imageSrc": "WD.png",
+        "courses": [
+            {
+                "id": 4,
+                "title": "Professional Web Design & Development",
+                "imageSrc": "courseCard4.png",
+                "duration": "80 Hours",
+                "rating": 4,
+                "reviews": 498,
+                "students": 1985,
+                "originalPrice": "৳60,000",
+                "discount": 50,
+                "discountedPrice": "৳30,000",
+                "detail": "## Professional Web Design & Development\n\nএই কোর্সটি তাদের জন্য যারা ওয়েব ডিজাইন এবং ডেভেলপমেন্টে প্রফেশনাল লেভেলের দক্ষতা অর্জন করতে চান। বাস্তব প্রজেক্ট এবং আধুনিক টেকনোলজি ব্যবহার করে আপনাকে একজন দক্ষ ওয়েব ডিজাইনার এবং ডেভেলপার হিসেবে গড়ে তোলা হবে।\n\n### এই কোর্সে আপনি যা শিখবেন\n- HTML, CSS, এবং JavaScript এর প্রফেশনাল ব্যবহার\n- Responsive ও Mobile-Friendly ডিজাইন\n- Modern Frontend Frameworks: React ও Next.js\n- Backend Development: Node.js, Express, এবং API Integration\n- Database Management: MongoDB বা SQL\n- Web Hosting, Deployment ও Project Management কৌশল\n- UI/UX Design Principles এবং Interactive Websites তৈরি\n\n### কারা এই কোর্সটি করবেন\n- যারা ফ্রিল্যান্সিং বা চাকরির জন্য প্রফেশনাল স্কিল অর্জন করতে চান\n- যারা Frontend ও Backend উভয়েই দক্ষ হতে চান\n- যারা Complete Web Development Project তৈরি করতে চান\n\n### কোর্স শেষে আপনি যা পাবেন\n- প্রফেশনাল মানের ওয়েবসাইট ডিজাইন এবং ডেভেলপ করার দক্ষতা\n- শক্তিশালী পোর্টফোলিও এবং বাস্তব প্রজেক্ট অভিজ্ঞতা\n- ক্লায়েন্টের প্রজেক্ট বা চাকরির জন্য আত্মবিশ্বাস"
+            },
+            {
+                "id": 5,
+                "title": "Front-end Development with React",
+                "imageSrc": "courseCard5.png",
+                "duration": "60 Hours",
+                "rating": 3,
+                "reviews": 498,
+                "students": 1985,
+                "originalPrice": "৳40,000",
+                "discount": 50,
+                "discountedPrice": "৳20,000",
+                "detail": "## Front-end Development with React\n\nএই কোর্সটি তাদের জন্য যারা Modern Web Development এ Frontend-এ দক্ষ হতে চান এবং React ব্যবহার করে Interactive ও Responsive Web Applications তৈরি করতে চান।\n\n### এই কোর্সে আপনি যা শিখবেন\n- HTML, CSS, ও JavaScript এর প্রফেশনাল ব্যবহার\n- React এর Basic এবং Advanced Concepts\n- Component-Based Architecture এবং Props/State Management\n- React Router দিয়ে Multi-Page Applications তৈরি\n- API Integration ও Data Fetching\n- Form Handling এবং Validation\n- Tailwind CSS ব্যবহার করে Modern UI Design\n- Project-Based Learning: Real-World React Projects\n\n### কারা এই কোর্সটি করবেন\n- যারা Frontend Development শিখতে চান\n- যারা React ব্যবহার করে Interactive ও Responsive Websites তৈরি করতে চান\n- যারা Web Development-এ ক্যারিয়ার বা ফ্রিল্যান্সিং করতে চান\n\n### কোর্স শেষে আপনি যা পাবেন\n- প্রফেশনাল React Applications তৈরি করার দক্ষতা\n- শক্তিশালী পোর্টফোলিও এবং বাস্তব প্রজেক্ট অভিজ্ঞতা\n- Frontend Development-এ আত্মবিশ্বাস এবং প্রফেশনাল স্কিল"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "category": "Office Course",
+        "imageSrc": "OC.png",
+        "courses": [
+            {
+                "id": 6,
+                "title": "Advanced Excel",
+                "imageSrc": "courseCard6.png",
+                "duration": "20 Hours",
+                "rating": 4,
+                "reviews": 498,
+                "students": 1985,
+                "originalPrice": "৳6,000",
+                "discount": 50,
+                "discountedPrice": "৳3,000",
+                "detail": "## Advanced Excel\n\nএই কোর্সটি তাদের জন্য যারা Microsoft Excel-এ দক্ষতা বাড়াতে চান এবং প্রফেশনাল লেভেলে ডেটা অ্যানালাইসিস, রিপোর্টিং ও অটোমেশন করতে চান।\n\n### এই কোর্সে আপনি যা শিখবেন\n- Advanced Formulas এবং Functions (VLOOKUP, HLOOKUP, INDEX-MATCH)\n- Data Validation ও Conditional Formatting\n- Pivot Tables এবং Pivot Charts তৈরি\n- Data Analysis এবং Visualization Techniques\n- Macros এবং VBA দিয়ে কাজের Automation\n- Scenario Analysis ও What-If Tools\n- Dashboard Design এবং Interactive Reports\n\n### কারা এই কোর্সটি করবেন\n- যারা অফিস বা ব্যবসায় ডেটা অ্যানালাইসিস করতে চান\n- যারা Excel ব্যবহার করে রিপোর্ট তৈরি করতে চান\n- যারা প্রফেশনাল স্কিল বাড়াতে চান\n\n### কোর্স শেষে আপনি যা পাবেন\n- প্রফেশনাল Excel Skills এবং Automation দক্ষতা\n- শক্তিশালী ডেটা অ্যানালাইসিস ক্ষমতা\n- অফিস বা ফ্রিল্যান্সিং কাজের জন্য আত্মবিশ্বাস"
+            },
+            {
+                "id": 7,
+                "title": "Professional Office Management",
+                "imageSrc": "courseCard7.png",
+                "duration": "60 Hours",
+                "rating": 4,
+                "reviews": 498,
+                "students": 1985,
+                "originalPrice": "৳12,000",
+                "discount": 50,
+                "discountedPrice": "৳6,000",
+                "detail": "## Professional Office Management\n\nএই কোর্সটি তাদের জন্য যারা অফিস ম্যানেজমেন্ট ও প্রশাসনিক কাজের দক্ষতা বাড়াতে চান। বাস্তবিক উদাহরণ এবং প্রফেশনাল টুল ব্যবহার করে আপনাকে একজন কার্যকর অফিস ম্যানেজার হিসেবে গড়ে তোলা হবে।\n\n### এই কোর্সে আপনি যা শিখবেন\n- অফিস প্রশাসন ও ডকুমেন্টেশন স্কিল\n- Time Management এবং Prioritization\n- Effective Communication ও Email Management\n- Meeting ও Event Planning\n- Record Keeping এবং Database Management\n- Task Management Tools ব্যবহার (যেমন MS Office, Google Workspace)\n- Office Workflow এবং Process Optimization\n\n### কারা এই কোর্সটি করবেন\n- অফিস বা প্রশাসনিক কাজে নিয়োজিত ব্যক্তি\n- যারা প্রফেশনাল স্কিল বাড়াতে চান\n- যারা Career Growth বা Efficiency বাড়াতে চান\n\n### কোর্স শেষে আপনি যা পাবেন\n- প্রফেশনাল অফিস ম্যানেজমেন্ট দক্ষতা\n- কার্যকর অফিস ও টিম পরিচালনার ক্ষমতা\n- প্রফেশনাল পরিবেশে আত্মবিশ্বাস এবং দক্ষতা"
+            },
+            {
+                "id": 8,
+                "title": "Certificate in Computer Science & Application",
+                "imageSrc": "courseCard8.png",
+                "duration": "40 Hours",
+                "rating": 4,
+                "reviews": 498,
+                "students": 1985,
+                "originalPrice": "৳6,000",
+                "discount": 50,
+                "discountedPrice": "৳3,000",
+                "detail": "## Certificate in Computer Science & Application\n\nএই কোর্সটি তাদের জন্য যারা কম্পিউটার সায়েন্সের বেসিক ধারণা থেকে শুরু করে প্র্যাকটিক্যাল অ্যাপ্লিকেশন পর্যন্ত শিখতে চান। কোর্সটি বাস্তব উদাহরণ ও প্রজেক্টের মাধ্যমে শিক্ষার্থীদের দক্ষ করে তোলে।\n\n### এই কোর্সে আপনি যা শিখবেন\n- কম্পিউটার হার্ডওয়্যার ও সফটওয়্যারের বেসিক জ্ঞান\n- Operating Systems এবং File Management\n- MS Office (Word, Excel, PowerPoint) প্রফেশনাল লেভেল ব্যবহার\n- Internet ও Web Applications এর ব্যবহার\n- Database Concepts ও Basic SQL\n- Problem Solving ও Logical Thinking\n- প্রজেক্ট-ভিত্তিক অ্যাপ্লিকেশন তৈরি\n\n### কারা এই কোর্সটি করবেন\n- যারা কম্পিউটার ও সফটওয়্যারের প্রাথমিক ধারণা অর্জন করতে চান\n- যারা অফিস, স্কুল বা কলেজের জন্য প্রয়োজনীয় কম্পিউটার স্কিল শিখতে চান\n- যারা ফ্রিল্যান্সিং বা প্রফেশনাল ক্যারিয়ার শুরু করতে চান\n\n### কোর্স শেষে আপনি যা পাবেন\n- কম্পিউটার সায়েন্স ও অ্যাপ্লিকেশনের শক্তিশালী ভিত্তি\n- প্রফেশনাল সফটওয়্যার ব্যবহার দক্ষতা\n- বাস্তব প্রজেক্ট অভিজ্ঞতা এবং আত্মবিশ্বাস"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "category": "Video Editing",
+        "imageSrc": "VE.jpg",
+        "courses": [
+            {
+                "id": 9,
+                "title": "Professional Video Editing",
+                "imageSrc": "courseCard9.png",
+                "duration": "50 Hours",
+                "rating": 4,
+                "reviews": 498,
+                "students": 1985,
+                "originalPrice": "৳60,000",
+                "discount": 50,
+                "discountedPrice": "৳30,000",
+                "detail": "## Professional Video Editing\n\nএই কোর্সটি তাদের জন্য যারা ভিডিও এডিটিংয়ে প্রফেশনাল স্কিল অর্জন করতে চান এবং ক্রিয়েটিভ কনটেন্ট তৈরি করতে আগ্রহী। বাস্তব প্রজেক্ট এবং আধুনিক সফটওয়্যার ব্যবহার করে শিক্ষার্থীদের দক্ষ করে তোলা হবে।\n\n### এই কোর্সে আপনি যা শিখবেন\n- Adobe Premiere Pro ও Final Cut Pro-তে Advanced Editing\n- ভিডিও ট্রিমিং, কাটিং, এবং টাইমলাইন ম্যানেজমেন্ট\n- Color Correction এবং Color Grading Techniques\n- Motion Graphics ও Text Animation\n- Audio Editing এবং Sound Design\n- Visual Effects (VFX) বেসিক লেভেল\n- Project-Based Learning: Short Films, YouTube Content, ও Marketing Videos\n\n### কারা এই কোর্সটি করবেন\n- যারা ভিডিও এডিটিং শিখতে চান এবং ক্রিয়েটিভ কনটেন্ট তৈরি করতে চান\n- যারা ফ্রিল্যান্সিং বা ইউটিউব/সোশ্যাল মিডিয়ার জন্য ভিডিও তৈরি করতে চান\n- যারা প্রফেশনাল ভিডিও এডিটর হতে চান\n\n### কোর্স শেষে আপনি যা পাবেন\n- প্রফেশনাল মানের ভিডিও এডিটিং দক্ষতা\n- শক্তিশালী পোর্টফোলিও এবং বাস্তব প্রজেক্ট অভিজ্ঞতা\n- ফ্রিল্যান্সিং বা ক্রিয়েটিভ ক্যারিয়ারের জন্য আত্মবিশ্বাস"
+            },
+            {
+                "id": 10,
+                "title": "Basic Video Editing",
+                "imageSrc": "courseCard10.png",
+                "duration": "20 Hours",
+                "rating": 2,
+                "reviews": 298,
+                "students": 1985,
+                "originalPrice": "৳16,000",
+                "discount": 50,
+                "discountedPrice": "৳8,000",
+                "detail": "## Basic Video Editing\n\nএই কোর্সটি তাদের জন্য যারা ভিডিও এডিটিং শিখতে শুরু করছেন এবং প্রফেশনাল লেভেলের বেসিক স্কিল অর্জন করতে চান। সহজ উদাহরণ ও প্রজেক্টের মাধ্যমে শিক্ষার্থীদের দক্ষ করে তোলা হবে।\n\n### এই কোর্সে আপনি যা শিখবেন\n- ভিডিও ট্রিমিং, কাটিং ও সিকোয়েন্স ম্যানেজমেন্ট\n- Adobe Premiere Pro বা অন্য ভিডিও এডিটিং সফটওয়্যার বেসিক ব্যবহার\n- Text Overlay ও Simple Transitions\n- Basic Color Correction ও Audio Adjustments\n- Short Clips, Social Media Content তৈরি\n- Project-Based Learning: ছোট ভিডিও প্রজেক্ট সম্পন্ন করা\n\n### কারা এই কোর্সটি করবেন\n- যারা ভিডিও এডিটিং শুরু করতে চান\n- যারা সোশ্যাল মিডিয়ার জন্য কনটেন্ট তৈরি করতে চান\n- যারা ফ্রিল্যান্সিং বা ক্রিয়েটিভ হবি হিসেবে ভিডিও এডিটিং শিখতে চান\n\n### কোর্স শেষে আপনি যা পাবেন\n- বেসিক ভিডিও এডিটিং দক্ষতা\n- ছোট প্রজেক্ট তৈরি করার অভিজ্ঞতা\n- আত্মবিশ্বাস এবং ভিডিও এডিটিংয়ের প্রাথমিক জ্ঞান"
+            },
+            {
+                "id": 11,
+                "title": "Advanced Video Editing",
+                "imageSrc": "courseCard11.png",
+                "duration": "30 Hours",
+                "rating": 4,
+                "reviews": 498,
+                "students": 1985,
+                "originalPrice": "৳70,000",
+                "discount": 50,
+                "discountedPrice": "৳35,000",
+                "detail": "## Advanced Video Editing\n\nএই কোর্সটি তাদের জন্য যারা ভিডিও এডিটিংয়ে প্রফেশনাল লেভেলের দক্ষতা অর্জন করতে চান। আধুনিক সফটওয়্যার এবং প্রজেক্ট-ভিত্তিক লার্নিংয়ের মাধ্যমে শিক্ষার্থীদের ক্রিয়েটিভ এবং প্রফেশনাল ভিডিও তৈরি করতে সক্ষম করে।\n\n### এই কোর্সে আপনি যা শিখবেন\n- Adobe Premiere Pro, After Effects ও Final Cut Pro-তে Advanced Editing Techniques\n- Color Grading ও Color Correction এর প্রফেশনাল ব্যবহার\n- Motion Graphics এবং Text Animation\n- Advanced Audio Editing এবং Sound Design\n- Visual Effects (VFX) ও Compositing Techniques\n- Project-Based Learning: Short Films, Marketing Videos, YouTube Content\n- Workflow Optimization এবং Multi-Camera Editing\n\n### কারা এই কোর্সটি করবেন\n- যারা প্রফেশনাল ভিডিও এডিটর হতে চান\n- যারা Advanced ভিডিও প্রজেক্টে কাজ করতে চান\n- যারা ফ্রিল্যান্সিং বা সোশ্যাল মিডিয়ায় ক্রিয়েটিভ ক্যারিয়ার গড়তে চান\n\n### কোর্স শেষে আপনি যা পাবেন\n- প্রফেশনাল মানের Advanced Video Editing দক্ষতা\n- শক্তিশালী পোর্টফোলিও এবং বাস্তব প্রজেক্ট অভিজ্ঞতা\n- ফ্রিল্যান্সিং বা ক্রিয়েটিভ ক্যারিয়ারের জন্য আত্মবিশ্বাস"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "category": "Hardware",
+        "imageSrc": "HW.png",
+        "courses": [
+            {
+                "id": 12,
+                "title": "Basic Hardware",
+                "imageSrc": "courseCard12.png",
+                "duration": "30 Hours",
+                "rating": 4,
+                "reviews": 498,
+                "students": 1985,
+                "originalPrice": "৳20,000",
+                "discount": 50,
+                "discountedPrice": "৳10,000",
+                "detail": "## Basic Hardware\n\nএই কোর্সটি তাদের জন্য যারা কম্পিউটার হার্ডওয়্যারের বেসিক ধারণা শিখতে চান। সহজ উদাহরণ এবং প্র্যাকটিক্যাল ল্যাব এক্সপেরিয়েন্সের মাধ্যমে শিক্ষার্থীদের দক্ষ করে তোলা হবে।\n\n### এই কোর্সে আপনি যা শিখবেন\n- কম্পিউটারের প্রধান উপাদান (CPU, RAM, Motherboard, Storage)\n- Input ও Output Devices সম্বন্ধে ধারণা\n- Hardware Assembly ও Disassembly\n- Basic Troubleshooting ও Maintenance\n- Peripheral Devices এবং Networking Basics\n- Safety Measures ও Hardware Care\n\n### কারা এই কোর্সটি করবেন\n- যারা কম্পিউটার হার্ডওয়্যারে আগ্রহী\n- যারা অফিস বা ব্যক্তিগত ব্যবহারের জন্য Hardware শেখার ইচ্ছুক\n- যারা প্রফেশনাল বা ফ্রিল্যান্সিং কাজে Hardware জ্ঞান প্রয়োজন\n\n### কোর্স শেষে আপনি যা পাবেন\n- কম্পিউটার হার্ডওয়্যারের বেসিক দক্ষতা\n- সহজ Troubleshooting ও Maintenance করার ক্ষমতা\n- প্রাথমিক Hardware Setup ও কাজের আত্মবিশ্বাস"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "category": "Professional Digital Marketing",
+        "imageSrc": "PDM.jpg",
+        "courses": [
+            {
+                "id": 13,
+                "title": "Basic Professional Digital Marketing",
+                "imageSrc": "courseCard13.png",
+                "duration": "30 Hours",
+                "rating": 4,
+                "reviews": 498,
+                "students": 1985,
+                "originalPrice": "৳20,000",
+                "discount": 50,
+                "discountedPrice": "৳10,000",
+                "detail": "## Basic Professional Digital Marketing\n\nএই কোর্সটি তাদের জন্য যারা ডিজিটাল মার্কেটিং-এ প্রফেশনাল স্কিল অর্জন করতে চান। সহজ উদাহরণ ও প্র্যাকটিক্যাল লার্নিংয়ের মাধ্যমে শিক্ষার্থীদের দক্ষ করে তোলে।\n\n### এই কোর্সে আপনি যা শিখবেন\n- ডিজিটাল মার্কেটিং এর মূল ধারণা\n- SEO (Search Engine Optimization) ও SEM (Search Engine Marketing)\n- Social Media Marketing: Facebook, Instagram, LinkedIn\n- Email Marketing এবং Campaign Management\n- Content Marketing এবং Blogging\n- Google Analytics ও Marketing Performance Tracking\n- Online Ads ও Paid Campaigns পরিচালনা করা\n\n### কারা এই কোর্সটি করবেন\n- যারা Digital Marketing শিখতে চান\n- যারা ফ্রিল্যান্সিং বা ব্যবসায়ের জন্য অনলাইন মার্কেটিং করতে চান\n- যারা Social Media Marketing এ ক্যারিয়ার গড়তে চান\n\n### কোর্স শেষে আপনি যা পাবেন\n- প্রফেশনাল Digital Marketing স্কিল এবং Campaign পরিচালনার দক্ষতা\n- শক্তিশালী Portfolio ও Online Marketing অভিজ্ঞতা\n- ফ্রিল্যান্সিং বা ব্যবসায়ের জন্য আত্মবিশ্বাস"
+            },
+            {
+                "id": 14,
+                "title": "Professional Search Engine Optimization",
+                "imageSrc": "courseCard14.png",
+                "duration": "40 Hours",
+                "rating": 4.5,
+                "reviews": 498,
+                "students": 1985,
+                "originalPrice": "৳30,000",
+                "discount": 50,
+                "discountedPrice": "৳15,500",
+                "detail": "## Professional Search Engine Optimization\n\nএই কোর্সটি তাদের জন্য যারা SEO-তে প্রফেশনাল দক্ষতা অর্জন করতে চান এবং ওয়েবসাইট বা অনলাইন কনটেন্টের র‍্যাঙ্কিং বাড়াতে আগ্রহী। বাস্তব উদাহরণ এবং প্রজেক্টের মাধ্যমে শিক্ষার্থীদের দক্ষ করে তোলা হবে।\n\n### এই কোর্সে আপনি যা শিখবেন\n- SEO এর মূল ধারণা এবং গুরুত্ব\n- On-Page SEO: Meta Tags, Keywords, Content Optimization\n- Off-Page SEO: Backlinks, Social Signals\n- Technical SEO: Sitemap, Robots.txt, Site Speed Optimization\n- Google Analytics এবং Search Console ব্যবহার করে Performance Tracking\n- SEO Tools ও Keyword Research Techniques\n- Local SEO এবং Mobile SEO Optimization\n\n### কারা এই কোর্সটি করবেন\n- যারা প্রফেশনাল SEO স্কিল শিখতে চান\n- যারা ওয়েবসাইটের র‍্যাঙ্কিং উন্নত করতে চান\n- যারা ফ্রিল্যান্সিং বা ডিজিটাল মার্কেটিং ক্যারিয়ার শুরু করতে চান\n\n### কোর্স শেষে আপনি যা পাবেন\n- প্রফেশনাল SEO স্কিল এবং ওয়েবসাইট অপ্টিমাইজ করার ক্ষমতা\n- শক্তিশালী Portfolio এবং বাস্তব প্রজেক্ট অভিজ্ঞতা\n- ফ্রিল্যান্সিং বা ডিজিটাল মার্কেটিং ক্যারিয়ারের জন্য আত্মবিশ্বাস"
+            },
+            {
+                "id": 15,
+                "title": "Professional Social Media Marketing",
+                "imageSrc": "courseCard15.png",
+                "duration": "40 Hours",
+                "rating": 4.5,
+                "reviews": 498,
+                "students": 1985,
+                "originalPrice": "৳50,000",
+                "discount": 50,
+                "discountedPrice": "৳25,500",
+                "detail": "## Professional Social Media Marketing\n\nএই কোর্সটি তাদের জন্য যারা Social Media Marketing-এ প্রফেশনাল দক্ষতা অর্জন করতে চান এবং বিভিন্ন প্ল্যাটফর্মে ব্র্যান্ড বা প্রোডাক্ট প্রমোট করতে আগ্রহী। বাস্তব প্রজেক্ট এবং ক্যাম্পেইন উদাহরণের মাধ্যমে শিক্ষার্থীদের দক্ষ করে তোলা হবে।\n\n### এই কোর্সে আপনি যা শিখবেন\n- Social Media Marketing এর মূল ধারণা এবং গুরুত্ব\n- Facebook, Instagram, LinkedIn, Twitter ও TikTok Marketing\n- Content Creation এবং Scheduling Tools ব্যবহার\n- Paid Campaigns: Ads Manager ও Targeting Techniques\n- Community Engagement ও Brand Building\n- Analytics Tools ব্যবহার করে Campaign Performance Tracking\n- Social Media Strategy এবং Growth Hacks\n\n### কারা এই কোর্সটি করবেন\n- যারা Social Media Marketing শিখতে চান\n- যারা ব্র্যান্ড বা প্রোডাক্টের জন্য অনলাইন মার্কেটিং করতে চান\n- যারা ফ্রিল্যান্সিং বা ডিজিটাল মার্কেটিং ক্যারিয়ার শুরু করতে চান\n\n### কোর্স শেষে আপনি যা পাবেন\n- প্রফেশনাল Social Media Marketing দক্ষতা\n- শক্তিশালী Portfolio এবং Campaign বাস্তব অভিজ্ঞতা\n- ফ্রিল্যান্সিং বা ডিজিটাল মার্কেটিং ক্যারিয়ারের জন্য আত্মবিশ্বাস"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "category": "Professional Freelancing & Outsourcing",
+        "imageSrc": "PF.jpg",
+        "courses": [
+            {
+                "id": 16,
+                "title": "Professional Data Entry and Freelancing",
+                "imageSrc": "courseCard16.png",
+                "duration": "30 Hours",
+                "rating": 4,
+                "reviews": 498,
+                "students": 1985,
+                "originalPrice": "৳30,000",
+                "discount": 50,
+                "discountedPrice": "৳15,000",
+                "detail": "## Professional Data Entry and Freelancing\n\nএই কোর্সটি তাদের জন্য যারা Data Entry কাজ শিখে ফ্রিল্যান্সিং বা প্রফেশনাল ক্যারিয়ার শুরু করতে চান। সহজ উদাহরণ এবং প্র্যাকটিক্যাল লার্নিংয়ের মাধ্যমে শিক্ষার্থীদের দক্ষ করে তোলা হবে।\n\n### এই কোর্সে আপনি যা শিখবেন\n- Data Entry এর মূল ধারণা এবং প্রয়োজনীয় স্কিল\n- Microsoft Excel, Google Sheets এবং অন্যান্য Tools ব্যবহার\n- Typing Speed এবং Accuracy উন্নত করা\n- Online Data Collection ও Research Techniques\n- Freelancing Platforms: Upwork, Fiverr, Freelancer-এ কাজের নিয়ম\n- Client Communication এবং Project Management Skills\n- Time Management এবং Professional Workflow\n\n### কারা এই কোর্সটি করবেন\n- যারা Data Entry শিখতে চান এবং ফ্রিল্যান্সিং শুরু করতে চান\n- যারা অফিস বা প্রফেশনাল কাজের জন্য দক্ষতা বাড়াতে চান\n- যারা Online Income বা Career Growth চাচ্ছেন\n\n### কোর্স শেষে আপনি যা পাবেন\n- প্রফেশনাল Data Entry দক্ষতা\n- Freelancing ও Online Work করার সক্ষমতা\n- Portfolio এবং বাস্তব অভিজ্ঞতা"
+            },
+            {
+                "id": 17,
+                "title": "Professional Freelancing & Outsourcing",
+                "imageSrc": "courseCard17.png",
+                "duration": "40 Hours",
+                "rating": 4.5,
+                "reviews": 498,
+                "students": 1985,
+                "originalPrice": "৳40,000",
+                "discount": 50,
+                "discountedPrice": "৳20,000",
+                "detail": "## Professional Freelancing & Outsourcing\n\nএই কোর্সটি তাদের জন্য যারা Freelancing এবং Outsourcing-এর মাধ্যমে প্রফেশনাল ক্যারিয়ার শুরু করতে চান। বাস্তব উদাহরণ ও প্রজেক্ট-ভিত্তিক লার্নিংয়ের মাধ্যমে শিক্ষার্থীদের দক্ষ করে তোলে।\n\n### এই কোর্সে আপনি যা শিখবেন\n- Freelancing এর মূল ধারণা এবং প্রফেশনাল স্কিল\n- Upwork, Fiverr, Freelancer এবং অন্যান্য প্ল্যাটফর্মে প্রোফাইল তৈরি ও কাজের নিয়ম\n- Client Communication এবং Negotiation Techniques\n- Outsourcing Projects Management এবং Team Collaboration\n- Time Management এবং Workflow Optimization\n- Payment Systems ও Online Transaction Security\n- Portfolio Building এবং Real-World Project Execution\n\n### কারা এই কোর্সটি করবেন\n- যারা Freelancing বা Outsourcing ক্যারিয়ার শুরু করতে চান\n- যারা Online Income বা Side Hustle করতে চান\n- যারা প্রফেশনাল স্কিল ও Project Management শিখতে আগ্রহী\n\n### কোর্স শেষে আপনি যা পাবেন\n- প্রফেশনাল Freelancing ও Outsourcing দক্ষতা\n- শক্তিশালী Portfolio এবং বাস্তব Project অভিজ্ঞতা\n- Online Career বা Freelancing-এ আত্মবিশ্বাস"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "category": "Software",
+        "imageSrc": "SW.png",
+        "courses": [
+            {
+                "id": 18,
+                "title": "Software Create & Sell",
+                "imageSrc": "courseCard18.png",
+                "duration": "40 Hours",
+                "rating": 4.5,
+                "reviews": 498,
+                "students": 1985,
+                "originalPrice": "৳20,000",
+                "discount": 50,
+                "discountedPrice": "৳10,000",
+                "detail": "## Software Create & Sell\n\nএই কোর্সটি তাদের জন্য যারা সফটওয়্যার তৈরি করে তা বিক্রি করে প্রফেশনাল ক্যারিয়ার শুরু করতে চান। বাস্তব উদাহরণ এবং প্রজেক্ট-ভিত্তিক লার্নিংয়ের মাধ্যমে শিক্ষার্থীদের দক্ষ করে তোলে।\n\n### এই কোর্সে আপনি যা শিখবেন\n- Software Development এর মূল ধারণা এবং প্রক্রিয়া\n- Programming Languages ও Tools ব্যবহার (যেমন Python, JavaScript)\n- Application Design এবং User Interface Development\n- Software Testing ও Debugging Techniques\n- Software Packaging এবং Deployment\n- Marketing এবং Online Selling Strategies\n- Licensing এবং Customer Support Basics\n\n### কারা এই কোর্সটি করবেন\n- যারা Software Development ও Product Creation শিখতে চান\n- যারা Freelancing বা Online Business করতে চান\n- যারা Software দিয়ে Online Income বা প্রফেশনাল ক্যারিয়ার শুরু করতে চান\n\n### কোর্স শেষে আপনি যা পাবেন\n- Software তৈরি এবং বাজারে বিক্রির সক্ষমতা\n- প্রফেশনাল Development ও Selling স্কিল\n- বাস্তব প্রজেক্ট অভিজ্ঞতা এবং Online Income করার আত্মবিশ্বাস"
+            }
+        ]
+    }
+]
