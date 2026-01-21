@@ -40,7 +40,7 @@ export default function AboutPage() {
     return (
         <div className="min-h-screen bg-gray-50 pb-20">
             {/* Header Section */}
-            <div className="relative w-full h-[300px] md:h-[400px]">
+            <div className="relative w-full h-[300px] md:h-[400px] lg:h-[700px]">
                 <Image
                     src="/about-header.png"
                     alt="Valley ICT Office environment"
