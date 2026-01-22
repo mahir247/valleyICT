@@ -61,7 +61,7 @@ const Sidebar = ({ isOpen, onClose }: SidebarProps) => {
 
           {/* Social Media Icons */}
           <div className="flex items-center gap-3 pt-2 border-t border-gray-200">
-            <a href="https://www.facebook.com/yaqubal.mahir.3" className="text-gray-600 hover:text-blue-600 transition" aria-label="Facebook">
+            <a href="https://www.facebook.com/valleyictbd247" target="_blank" className="text-gray-600 hover:text-blue-600 transition" aria-label="Facebook">
               <Facebook size={20} />
             </a>
             <a href="#" className="text-gray-600 hover:text-red-600 transition" aria-label="YouTube">

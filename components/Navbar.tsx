@@ -55,7 +55,7 @@ const Navbar = () => {
 
               {/* Social Media Icons */}
               <div className="flex items-center gap-3">
-                <a href="https://www.facebook.com/share/1CFzBbGLtk/" 
+                <a href="https://www.facebook.com/valleyictbd247" 
                 target="_blank"
                 className="text-gray-600 hover:text-blue-600 transition" aria-label="Facebook">
                   <Facebook size={18} />
